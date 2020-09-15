@@ -2,6 +2,8 @@ language: cpp
 os:
   - linux
   - osx
+arch: 
+  - ppc64le
 compiler:
   - gcc
   - clang
